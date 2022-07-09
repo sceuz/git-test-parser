@@ -78,5 +78,5 @@ def get_data(url):
     #
 
 
-get_data("https://abiturientu.kai.ru/spiski-postupausih?p_auth=GvxeFT8R&p_p_id=listentrant_WAR_listentrant10&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_listentrant_WAR_listentrant10_pageName=listEntrant&_listentrant_WAR_listentrant10_javax.portlet.action=getList")
+get_data("URL")
 
